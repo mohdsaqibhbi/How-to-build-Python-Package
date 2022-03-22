@@ -16,7 +16,7 @@ from generate_background_image import generate_background_image
 
 word_string = "Iron man,Thanos,Doctor Strange,Captain Marvel,Hulk,Vision,Thor,Groot,Rocket,Winter Soldier,Hela,Spiderman,Black Panther,Ultron,Wanda,Gamora,Star Lord,War Machine,Silver Quick,Mantis,Captain America,Loki,Antman,Black Widow,Hawkeye,Falcon,Drax,Shuri"
 
-generate_background_image(words=word_string, out="output_image.png", layout_color="black")
+generate_background_image.generate_background_image(words=word_string, out="output_image.png", layout_color="black")
 ```
 ![mcu_black](https://github.com/mohdsaqibhbi/Generate_text_image/blob/master/output/mcu_black.png)
 
@@ -27,7 +27,7 @@ from generate_background_image import generate_background_image
 
 word_string = "Iron man,Thanos,Doctor Strange,Captain Marvel,Hulk,Vision,Thor,Groot,Rocket,Winter Soldier,Hela,Spiderman,Black Panther,Ultron,Wanda,Gamora,Star Lord,War Machine,Silver Quick,Mantis,Captain America,Loki,Antman,Black Widow,Hawkeye,Falcon,Drax,Shuri"
 
-generate_background_image(words=word_string, out="output_image.png", layout_color="white")
+generate_background_image.generate_background_image(words=word_string, out="output_image.png", layout_color="white")
 ```
 ![mcu_white](https://github.com/mohdsaqibhbi/Generate_text_image/blob/master/output/mcu_white.png)
 
