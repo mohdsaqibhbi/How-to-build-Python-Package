@@ -6,7 +6,7 @@ with open('generate_background_image/README.md', encoding='utf-8') as readme_fil
 
 setup_args = dict(
     name='generate_background_image',
-    version='0.0.1',
+    version='0.0.2',
     description='Generate a background image of words in a given string using the wordcloud module.',
     long_description=README,
 	long_description_content_type='text/markdown',

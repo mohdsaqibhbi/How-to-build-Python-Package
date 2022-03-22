@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: generate-background-image
-Version: 0.0.1
+Version: 0.0.2
 Summary: Generate a background image of words in a given string using the wordcloud module.
 Home-page: https://github.com/mohdsaqibhbi/How-to-build-Python-Package.git
 Author: Mohd Saqib
