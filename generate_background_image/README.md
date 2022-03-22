@@ -12,14 +12,14 @@ This repo is about how to Generate a background image of words in a given string
 - To generate image with black background.
 
 ```
-generate_text_image -ws "Iron man,Thanos,Doctor Strange,Captain Marvel,Hulk,Vision,Thor,Groot,Rocket,Winter Soldier,Hela,Spiderman,Black Panther,Ultron,Wanda,Gamora,Star Lord,War Machine,Silver Quick,Mantis,Captain America,Loki,Antman,Black Widow,Hawkeye,Falcon,Drax,Shuri" -o output/mcu.png -l black
+generate-background-image -ws "Iron man,Thanos,Doctor Strange,Captain Marvel,Hulk,Vision,Thor,Groot,Rocket,Winter Soldier,Hela,Spiderman,Black Panther,Ultron,Wanda,Gamora,Star Lord,War Machine,Silver Quick,Mantis,Captain America,Loki,Antman,Black Widow,Hawkeye,Falcon,Drax,Shuri" -o output/mcu.png -l black
 ```
 ![mcu_black](https://github.com/mohdsaqibhbi/Generate_text_image/blob/master/output/mcu_black.png)
 
 - To generate image with white background.
 
 ```
-generate_text_image -ws "Iron man,Thanos,Doctor Strange,Captain Marvel,Hulk,Vision,Thor,Groot,Rocket,Winter Soldier,Hela,Spiderman,Black Panther,Ultron,Wanda,Gamora,Star Lord,War Machine,Silver Quick,Mantis,Captain America,Loki,Antman,Black Widow,Hawkeye,Falcon,Drax,Shuri" -o output/mcu_white.png -l white
+generate-background-image -ws "Iron man,Thanos,Doctor Strange,Captain Marvel,Hulk,Vision,Thor,Groot,Rocket,Winter Soldier,Hela,Spiderman,Black Panther,Ultron,Wanda,Gamora,Star Lord,War Machine,Silver Quick,Mantis,Captain America,Loki,Antman,Black Widow,Hawkeye,Falcon,Drax,Shuri" -o output/mcu_white.png -l white
 ```
 ![mcu_white](https://github.com/mohdsaqibhbi/Generate_text_image/blob/master/output/mcu_white.png)
 
