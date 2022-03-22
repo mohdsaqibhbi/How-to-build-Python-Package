@@ -53,6 +53,9 @@ install_requires = ["python-magic;platform_system=='Linux'", "python-magic-bin;p
 11. Upload the package to pypi.org using `twine upload dist/*`. Enter the username and password to succesfully upload the package.
 12. Voila! You have successfully published your package.
 
+### Directory structure
+![directory_structure.png](directory_structure.png)
+
 ## LICENSE
 This project is licensed under the terms of the [MIT license](LICENSE).
 
